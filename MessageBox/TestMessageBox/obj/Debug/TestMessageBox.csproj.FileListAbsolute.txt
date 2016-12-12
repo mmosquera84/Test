@@ -1,0 +1,8 @@
+F:\Test\MessageBox\TestMessageBox\obj\Debug\TestMessageBox.csprojResolveAssemblyReference.cache
+F:\Test\MessageBox\TestMessageBox\bin\TestMessageBox.dll.config
+F:\Test\MessageBox\TestMessageBox\bin\TestMessageBox.dll
+F:\Test\MessageBox\TestMessageBox\bin\TestMessageBox.pdb
+F:\Test\MessageBox\TestMessageBox\bin\MessageBox.dll
+F:\Test\MessageBox\TestMessageBox\bin\MessageBox.pdb
+F:\Test\MessageBox\TestMessageBox\obj\Debug\TestMessageBox.dll
+F:\Test\MessageBox\TestMessageBox\obj\Debug\TestMessageBox.pdb

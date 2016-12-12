@@ -1,0 +1,10 @@
+c:\users\administrador\documents\visual studio 2013\Projects\MessageBox\MessageBox\bin\Debug\MessageBox.dll
+c:\users\administrador\documents\visual studio 2013\Projects\MessageBox\MessageBox\bin\Debug\MessageBox.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\MessageBox\MessageBox\bin\Debug\Datalayer.dll
+c:\users\administrador\documents\visual studio 2013\Projects\MessageBox\MessageBox\bin\Debug\Datalayer.pdb
+c:\users\administrador\documents\visual studio 2013\Projects\MessageBox\MessageBox\obj\Debug\MessageBox.dll
+c:\users\administrador\documents\visual studio 2013\Projects\MessageBox\MessageBox\obj\Debug\MessageBox.pdb
+F:\Test\MessageBox\MessageBox\obj\Debug\MessageBox.dll
+F:\Test\MessageBox\MessageBox\obj\Debug\MessageBox.pdb
+F:\Test\MessageBox\MessageBox\bin\Debug\MessageBox.dll
+F:\Test\MessageBox\MessageBox\bin\Debug\MessageBox.pdb
